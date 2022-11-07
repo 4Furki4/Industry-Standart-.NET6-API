@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "c:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\Furkan Cengiz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan Cengiz\\AppData\\Roaming\\NuGet\\NuGet.Config",

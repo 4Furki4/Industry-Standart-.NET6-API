@@ -1,4 +1,4 @@
-namespace BuberBreakfast.Contracts.Breakfast.UpsertBreakfastRequest
+namespace BuberBreakfast.Contracts.Breakfast
 {
     public record UpsertBreakfastRequest(
         Guid Id,

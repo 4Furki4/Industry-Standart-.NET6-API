@@ -1,4 +1,4 @@
-namespace BuberBreakfast.Contracts.Breakfast.CreateBreakfastRequest
+namespace BuberBreakfast.Contracts.Breakfast
 {
     public record CreateBreakfastRequest(
         string Name,
@@ -29,5 +29,3 @@ namespace BuberBreakfast.Contracts.Breakfast.CreateBreakfastRequest
 
 }// End of BuberBreakfast.Contracts.Breakfast.CreateBreakFastRequest namespace
 
-
- 
