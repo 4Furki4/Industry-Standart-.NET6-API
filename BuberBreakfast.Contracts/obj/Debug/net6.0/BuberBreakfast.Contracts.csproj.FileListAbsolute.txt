@@ -10,3 +10,15 @@ C:\Users\Furkan Cengiz\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\
 C:\Users\Furkan Cengiz\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\refint\BuberBreakfast.Contracts.dll
 C:\Users\Furkan Cengiz\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.pdb
 C:\Users\Furkan Cengiz\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\ref\BuberBreakfast.Contracts.dll
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.deps.json
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast.Contracts\obj\Debug\net6.0\ref\BuberBreakfast.Contracts.dll

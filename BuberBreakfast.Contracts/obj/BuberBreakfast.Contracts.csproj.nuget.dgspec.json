@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Furkan Cengiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan Cengiz\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Furkan Cengiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,4 +1,7 @@
-@id = 00000000-0000-0000-0000-000000000000
+@id = d9f6e6dc-7290-4dad-9e45-533ea6be0efa
 
 GET http://localhost:5182/breakfasts/{{id}}
 Content-Type: application/json
+
+###
+GET https://localhost:7087/Breakfasts/2c180197-f8de-4f11-b2d5-d61f1179c88a
