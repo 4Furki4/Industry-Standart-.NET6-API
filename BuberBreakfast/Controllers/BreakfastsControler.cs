@@ -21,17 +21,12 @@ public class BreakfastsController : ApiController
     public IActionResult CreateBreakfast(CreateBreakfastRequest request)
     {
         // get in the data the language our application speak.
-        var breakfast = new Breakfast(
-                Guid.NewGuid(),
-                request.Name,
-                request.Description,
-                request.StartDateTime,
-                request.EndDateTime,
-                DateTime.Now,
-                request.Savory,
-                request.Sweet
-            );
-
+        ErrorOr<Breakfast> requestToBreakfastResult = Breakfast.From(request);
+        if(requestToBreakfastResult.IsError)
+        {
+            return Problem(requestToBreakfastResult.Errors); 
+        }
+        var breakfast = requestToBreakfastResult.Value;
         //TODO: save breakfast to database.
         ErrorOr<Created> createBreakfastResult = _breakfastService.CreateBreakfast(breakfast);
 
@@ -48,27 +43,16 @@ public class BreakfastsController : ApiController
             breakfast =>Ok (MapBreakfastResponse(breakfast)),
             errors => Problem(errors)
         );
-        // if (getBreakfastResult.IsError && getBreakfastResult.FirstError == Errors.Breakfast.NotFound)
-        // {
-        //     return NotFound();
-        // }
-        // var breakfast = getBreakfastResult.Value;
-        // BreakfastResponse response = MapBreakfastResponse(breakfast);
-        // return Ok(response);
     }
     [HttpPut("{id:guid}")]
     public IActionResult UpsertBreakfast(Guid id, UpsertBreakfastRequest request)
     {
-        var breakfast = new Breakfast(
-            id,
-            request.Name,
-            request.Description,
-            request.StartDateTime,
-            request.EndDateTime,
-            DateTime.Now,
-            request.Savory,
-            request.Sweet
-        );
+        ErrorOr<Breakfast> requestToBreakfastResult = Breakfast.From(id, request);
+        if(requestToBreakfastResult.IsError)
+        {
+            return Problem(requestToBreakfastResult.Errors);
+        }
+        var breakfast = requestToBreakfastResult.Value;
         ErrorOr<UpsertedBreakfast> upsertedBreakfastResult = _breakfastService.UpsertBreakfast(breakfast);
         //TODO: return 201 if a new breakfast was created.
         return upsertedBreakfastResult.Match(
