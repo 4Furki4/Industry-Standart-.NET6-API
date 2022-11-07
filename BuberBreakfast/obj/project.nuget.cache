@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WNpj6eJ8sLTKScPngUowAH/RnZSaAvh7oIHcgKOkw4leFKpsUwQ1MTLKKb697mcLh2r94Eh3e1MppWHJvieNtQ==",
+  "dgSpecHash": "Z1ueVow28h3CnmMw/L5rdsOvf3taohIMgZhysy8vTzB2wBYpaAtzXS1W1C7o241AW0GWVwNp+RpxtD5Q+fHdEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\source\\repos\\4Furki4\\Industry-Standart-.NET6-API\\BuberBreakfast\\BuberBreakfast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -46,3 +46,4 @@ C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast\obj\
 C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.pdb
 C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast\obj\Debug\net6.0\ref\BuberBreakfast.dll
+C:\Users\HP\source\repos\4Furki4\Industry-Standart-.NET6-API\BuberBreakfast\bin\Debug\net6.0\ErrorOr.dll

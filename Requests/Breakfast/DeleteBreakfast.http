@@ -1,4 +1,4 @@
-@id = 00000000-0000-0000-0000-000000000000
+@id = 79bf7ee5-14e3-4642-bff7-aa9568371dff
 
 DELETE http://localhost:5182/breakfasts/{{id}}
 Content-Type: application/json
